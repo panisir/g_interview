@@ -6,7 +6,7 @@ Run Project In Terminal:
 - Clone repository
 - Open terminal
 - Go to ../g_interview/studio/
-- Type ./bin/www command and run
+- Type 'node ./bin/www' and run
 
 Run Project With WebStorm :
 - Clone Repository
@@ -19,4 +19,4 @@ Run Integration Test In Terminal :
 - Clone Repository
 - Open Termianl
 - Go to ../g_interview/studio/ 
-- Type 'npm run test' command and run
+- Type 'npm run test' and run
