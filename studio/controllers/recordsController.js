@@ -25,7 +25,6 @@ exports.getFilteredRecords = function (req, res, next) {
     }
 };
 
-
 /**
  * Takes
  * @param promise to resolve db query
