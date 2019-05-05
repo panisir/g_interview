@@ -17,5 +17,10 @@
     "mongoose": "file://node_modules/mongoose",
     "morgan": "~1.9.0",
     "pug": "2.0.0-beta11"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "supertest": "^4.0.2"
   }
 }
