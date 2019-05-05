@@ -14,3 +14,9 @@ Run Project With WebStorm :
 - File -> Open -> ../g_interview/studio
 - Run/Debug Configuration is ready for node
 - Click Run
+
+Run Integration Test In Terminal :
+- Clone Repository
+- Open Termianl
+- Go to ../g_interview/studio/ 
+- Type 'npm run test' command and run
